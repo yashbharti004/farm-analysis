@@ -48,7 +48,7 @@ SOLUTIONS = {
 }
 
 # Weather API Key
-API_KEY = "562657af81494efad5da414df7d83c0d"  # Replace with your actual API key
+API_KEY = "" 
 
 # Dependency: Get DB Session
 def get_db():
